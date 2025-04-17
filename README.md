@@ -25,6 +25,7 @@ The original value funtion is counting the number of 2 nodes  and 3 nodes connec
 Then get the value from computing the number with weight from big to small.
 
 I rewrite it become counting the number of (one side empty)2 nodes connected, (two sides empty) 2 nodes connected, 
+
 (one side empty) 3 nodes connected, (two sides empty) 3 nodes connected.
 
 It can think more detail.
