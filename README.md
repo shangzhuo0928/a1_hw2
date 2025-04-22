@@ -9,7 +9,7 @@ I only build 3 agents.
 ## Minimax agent
 The normal vision using minimax. 
 
-It runs very slow, the time complexity is O(7^4). 
+It runs very slow, the time complexity is O(n^4). 
 
 ## Minimax with Alpha-beta pruing agent
 Not only the > or < break the search, also the = .
